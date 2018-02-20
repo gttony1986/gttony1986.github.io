@@ -1,17 +1,13 @@
 body {
 	text-align: center;
-	padding: 200px 0;
-	background: url("http://github.com/gttony1986/gttony1986.github.io/blob/master/unit_3/images/20170722_210257.jpg");
+	background: url("images/20170722_210257.jpg");
 	background-size: cover;
-	color: #000;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #fff;
+	font-family: Helvetica;
 }
-
-.img-vert {
-    -moz-transform: scaleY(-1);
-    -o-transform: scaleY(-1);
-    -webkit-transform: scaleY(-1);
-    transform: scaleY(-1);
-    filter: FlipV;
-    -ms-filter: "FlipV";	
+hr {
+	width: 200px;
+}
+p {
+	font-size: 22px;
 }
