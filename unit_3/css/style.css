@@ -1,34 +1,41 @@
 Body {
 	text-align: center;
-	background: url("https://github.com/gttony1986/gttony1986.github.io/blob/master/unit_3/images/sci_fi_image.jpg?raw=true");
+	background: url("https://i.imgur.com/v4Ahevr.jpg");
 	background-size: cover;
 	color: #fff;
 	font-family: "Arial Black", Gadget, sans-serif;
 }
+
 h1 {
-	font-size: 60px;
+	font-size: 80px;
 	padding-top: 300px;
-	color: #fff;
-	text-shadow: 5px 5px #000000;
+	color: #3164E8;
+	text-shadow: 5px 5px #FF7900;
 }
+
 h3 {
-	font-size: 30px;
-	text-shadow: 2px 2px #000000;
+	font-size: 45px;
+	text-shadow: 2px 2px #3164E8;
+	color: #FF7900;
+	font-family: Comic, serif;
+	font-style: italic;
 }
+
 p {
-	padding-top: 200px;
+	padding-top: 180px;
 	color: #fff;
+	font-size: 20px;
 }
+
 hr {
 	width: 500px;
-	height: 2px;
+	height: 5px;
 }
+
 a:link {
-	color: #cc0000;
+	color: #E87300;
 }
-a:visited {
-	color: #999999;
-}
+
 a:hover {
-	color: #ff3300;
+	color: #3164E8;
 }
